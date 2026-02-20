@@ -1,0 +1,12 @@
+# Database exports
+*.sql
+
+# Uploads directory
+uploads/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Environment/Config (Optional: user can rename db.php.example to db.php)
+# includes/db.php
